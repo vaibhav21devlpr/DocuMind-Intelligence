@@ -1,7 +1,6 @@
 
 # DocuMind
-
-## Generative AI-Based Intelligent Document Analysis and Question Answering System
+Generative AI-Based Intelligent Document Analysis and Question Answering System
 
 DocuMind is an AI-powered document analysis and question-answering platform that allows users to upload documents, generate summaries, extract keywords, and ask questions using Retrieval-Augmented Generation (RAG).
 
