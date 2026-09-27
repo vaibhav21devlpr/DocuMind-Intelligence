@@ -1,5 +1,5 @@
 # DocuMind
-Generative AI-Based Intelligent Document Analysis and Question Answering System
+Generative AI-Based Intelligent Document Analysis and Question Answering System is a Generative AI-powered application designed to help users efficiently understand, analyze, and interact with digital documents. The system will allow users to upload documents such as PDFs, DOCX, and text files, which will be processed using Natural Language Processing (NLP), embeddings, and Large Language Models (LLMs). It will provide AI-generated summaries in Short, Medium, and Detailed formats, along with automatic extraction of important keywords and topics. The system will also include a Chat with Document feature using Retrieval-Augmented Generation (RAG), enabling users to ask natural-language questions about single or multiple documents and receive context-aware answers with relevant source or page references. Overall, the project aims to provide an intelligent, user-friendly, and reliable solution for document analysis while demonstrating practical applications of Generative AI, RAG, semantic search, embeddings, and LLMs.
 
 ## Requirements
 - Python 3.11+
