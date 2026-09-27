@@ -16,7 +16,7 @@ app.add_middleware(
     allow_origins=[
         FRONTEND_ORIGIN, 
         "http://127.0.0.1:5173",
-        "https://docu-mind-intelligence.vercel.app/"
+        "https://docu-mind-intelligence.vercel.app"
     ],
     allow_credentials=True, allow_methods=["*"], allow_headers=["*"]
 )
