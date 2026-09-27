@@ -1,0 +1,20 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Local vector database
+chroma_db/
+
+# VS Code settings
+.vscode/
